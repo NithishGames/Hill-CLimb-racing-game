@@ -1,1 +1,1 @@
-# Hill-CLimb-racing-game
+# Hill Climb Racing AI
